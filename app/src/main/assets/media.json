@@ -1,0 +1,32 @@
+[
+  {
+    "file": "pexels-juanpcoronel-16562473.jpg",
+    "type": "image",
+    "duration": 5000
+  },
+  {
+    "file": "3105317-hd_1920_1080_24fps.mp4",
+    "type": "video",
+    "duration": -1
+  },
+  {
+    "file": "9130156-uhd_3840_2160_30fps.mp4",
+    "type": "video",
+    "duration": -1
+  },
+  {
+    "file": "pexels-ompot-28719276.jpg",
+    "type": "image",
+    "duration": 3000
+  },
+  {
+    "file": "pexels-shvets-production-8417189.jpg",
+    "type": "image",
+    "duration": 3000
+  },
+  {
+    "file": "12472745_1920_1080_24fps.mp4",
+    "type": "video",
+    "duration": -1
+  }
+]
